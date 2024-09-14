@@ -4,8 +4,8 @@
 [![NPM downloads](http://img.shields.io/npm/dm/@iimm/data-view-react.svg?style=flat)](https://npmjs.com/package/@iimm/data-view-react)
 
 ## 说明
-** fork from [@jiaminghi/data-view-react](https://github.com/DataV-Team/DataV-React) 的1.2.5版本，
-仅添加了类型，修改成了TypeScript版本,修改了下文件结构,基本未修改组件内容（调整了下格式）**
+**fork from [@jiaminghi/data-view-react](https://github.com/DataV-Team/DataV-React) 的1.2.5版本，**
+**仅添加了类型，修改成了TypeScript版本,修改了下文件结构,基本未修改组件内容（调整了下格式）**
 
 ### npm 安装
 
